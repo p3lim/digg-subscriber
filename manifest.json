@@ -19,6 +19,7 @@
 		"default_popup": "popup.html"
 	},
 	"background": {
+		"persistent": false,
 		"scripts": ["assets/js/background.js"]
 	}
 }
